@@ -1,1 +1,6 @@
 git clone repositoryurl
+
+this fetches the repository from the server and creates a directory at the current location where the command was initiated.
+
+git remote -v 
+this shows all the remotes that are currently added
